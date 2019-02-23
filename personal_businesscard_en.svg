@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="personal_businesscard_en .svg">
+   sodipodi:docname="personal_businesscard_en.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-53.967367"
-     inkscape:cy="-15.917902"
+     inkscape:zoom="2.8"
+     inkscape:cx="257.811"
+     inkscape:cy="-47.572189"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,23 +55,23 @@
      id="layer1"
      transform="translate(0,-242)">
     <image
-       sodipodi:absref="background.png"
+       sodipodi:absref="/home/self/Graphics/OSM_businesscards/openstreetmap-promotional-leaflets/background.png"
        xlink:href="background.png"
-       width="160.72218"
-       height="58.439785"
-       preserveAspectRatio="none"
-       id="image841"
+       y="240.34375"
        x="-39.040619"
-       y="240.34375" />
+       id="image841"
+       preserveAspectRatio="none"
+       height="58.439785"
+       width="160.72218" />
     <image
-       sodipodi:absref="./globe_part_halo.png"
+       sodipodi:absref="/home/self/Graphics/OSM_businesscards/openstreetmap-promotional-leaflets/./globe_part_halo.png"
        xlink:href="./globe_part_halo.png"
-       width="45.480206"
-       height="55.007217"
-       id="image2726"
-       x="40.192951"
+       style="display:inline"
        y="241.9041"
-       style="display:inline" />
+       x="40.192951"
+       id="image2726"
+       height="55.007217"
+       width="45.480206" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75316548px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0.30025318px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30025318px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -105,46 +105,12 @@
          x="2.7510347"
          y="284.77692"
          style="stroke-width:0.30025318px"
-         id="tspan950">or join us directly</tspan><tspan
+         id="tspan950">or join us directly at</tspan><tspan
          sodipodi:role="line"
          x="2.7510347"
          y="289.46838"
          style="stroke-width:0.30025318px"
          id="tspan954">openstreetmap.org</tspan></text>
-    <g
-       id="g920"
-       transform="matrix(0.82236434,0,0,0.82236434,16.501948,80.764486)">
-      <g
-         transform="matrix(0.05834007,0,0,0.05834007,66.328697,245.45237)"
-         id="g871">
-        <rect
-           style="fill:#ffffff;fill-opacity:1"
-           x="0"
-           y="0"
-           width="270"
-           height="270"
-           id="rect855" />
-        <g
-           id="elements-8">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:#000000"
-             d="M 10,10 H 20 V 20 H 10 Z m 10,0 H 30 V 20 H 20 Z m 10,0 H 40 V 20 H 30 Z m 10,0 H 50 V 20 H 40 Z m 10,0 H 60 V 20 H 50 Z m 10,0 H 70 V 20 H 60 Z m 10,0 H 80 V 20 H 70 Z m 60,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 V 20 H 250 Z M 10,20 H 20 V 30 H 10 Z m 60,0 H 80 V 30 H 70 Z m 20,0 h 10 V 30 H 90 Z m 20,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 60,0 h 10 V 30 H 250 Z M 10,30 H 20 V 40 H 10 Z m 20,0 H 40 V 40 H 30 Z m 10,0 H 50 V 40 H 40 Z m 10,0 H 60 V 40 H 50 Z m 20,0 H 80 V 40 H 70 Z m 50,0 h 10 v 10 h -10 z m 70,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 V 40 H 250 Z M 10,40 H 20 V 50 H 10 Z m 20,0 H 40 V 50 H 30 Z m 10,0 H 50 V 50 H 40 Z m 10,0 H 60 V 50 H 50 Z m 20,0 H 80 V 50 H 70 Z m 20,0 h 10 V 50 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 V 50 H 250 Z M 10,50 H 20 V 60 H 10 Z m 20,0 H 40 V 60 H 30 Z m 10,0 H 50 V 60 H 40 Z m 10,0 H 60 V 60 H 50 Z m 20,0 H 80 V 60 H 70 Z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 V 60 H 250 Z M 10,60 H 20 V 70 H 10 Z m 60,0 H 80 V 70 H 70 Z m 20,0 h 10 V 70 H 90 Z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 60,0 h 10 V 70 H 250 Z M 10,70 H 20 V 80 H 10 Z m 10,0 H 30 V 80 H 20 Z m 10,0 H 40 V 80 H 30 Z m 10,0 H 50 V 80 H 40 Z m 10,0 H 60 V 80 H 50 Z m 10,0 H 70 V 80 H 60 Z m 10,0 H 80 V 80 H 70 Z m 20,0 h 10 V 80 H 90 Z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 V 80 H 250 Z M 100,80 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 60,0 h 10 V 90 H 170 Z M 10,90 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 10,0 h 10 v 10 H 80 Z m 10,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 240 Z M 30,100 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 H 240 Z M 10,110 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 30,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m -100,10 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 H 250 Z M 20,130 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 20,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,140 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 40,0 h 10 v 10 H 80 Z m 10,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 240 Z M 10,150 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 40,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,160 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 20,0 h 10 v 10 H 50 Z m 40,0 h 10 v 10 H 90 Z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 H 250 Z M 10,170 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 20,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 10,0 h 10 v 10 H 80 Z m 10,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 230 Z M 90,180 h 10 v 10 H 90 Z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 220 Z M 10,190 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,200 h 10 v 10 H 10 Z m 60,0 h 10 v 10 H 70 Z m 60,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,210 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 240 Z M 10,220 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,230 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 250 Z M 10,240 h 10 v 10 H 10 Z m 60,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 H 250 Z M 10,250 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z"
-             id="path857" />
-        </g>
-      </g>
-      <text
-         id="text881"
-         y="262.45529"
-         x="66.731636"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.4551971px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0.11641576px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11641576px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.11641576px"
-           y="263.7428"
-           x="66.731636"
-           id="tspan879"
-           sodipodi:role="line" /></text>
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11700296px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0.24936028px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24936028px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -158,17 +124,17 @@
          style="stroke-width:0.24936028px"
          dy="-0.94494051">*Username = &lt;UserName&gt;</tspan></text>
     <image
-       sodipodi:absref="./osm.png"
+       sodipodi:absref="/home/self/Graphics/OSM_businesscards/openstreetmap-promotional-leaflets/./osm.png"
        xlink:href="./osm.png"
-       inkscape:transform-center-y="-1.8972217"
-       inkscape:transform-center-x="-10.131677"
-       transform="rotate(-14.448299)"
-       width="14.927537"
-       height="14.927537"
-       id="image2836"
-       x="-60.399536"
+       style="display:inline"
        y="239.99736"
-       style="display:inline" />
+       x="-60.399536"
+       id="image2836"
+       height="14.927537"
+       width="14.927537"
+       transform="rotate(-14.448299)"
+       inkscape:transform-center-x="-10.131677"
+       inkscape:transform-center-y="-1.8972217" />
     <text
        inkscape:export-ydpi="400.01047"
        inkscape:export-xdpi="400.01047"
@@ -184,5 +150,24 @@
          x="20.473852"
          id="tspan3365"
          sodipodi:role="line">OpenStreetMap</tspan></text>
+    <g
+       id="g927"
+       transform="matrix(0.04716739,0,0,0.04716739,71.216992,282.63467)">
+      <rect
+         id="rect911"
+         height="270"
+         width="270"
+         y="0"
+         x="0"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="elements">
+        <path
+           id="path913"
+           d="M 10,10 H 20 V 20 H 10 Z m 10,0 H 30 V 20 H 20 Z m 10,0 H 40 V 20 H 30 Z m 10,0 H 50 V 20 H 40 Z m 10,0 H 60 V 20 H 50 Z m 10,0 H 70 V 20 H 60 Z m 10,0 H 80 V 20 H 70 Z m 40,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 V 20 H 250 Z M 10,20 H 20 V 30 H 10 Z m 60,0 H 80 V 30 H 70 Z m 20,0 h 10 V 30 H 90 Z m 20,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 60,0 h 10 V 30 H 250 Z M 10,30 H 20 V 40 H 10 Z m 20,0 H 40 V 40 H 30 Z m 10,0 H 50 V 40 H 40 Z m 10,0 H 60 V 40 H 50 Z m 20,0 H 80 V 40 H 70 Z m 60,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 V 40 H 250 Z M 10,40 H 20 V 50 H 10 Z m 20,0 H 40 V 50 H 30 Z m 10,0 H 50 V 50 H 40 Z m 10,0 H 60 V 50 H 50 Z m 20,0 H 80 V 50 H 70 Z m 20,0 h 10 V 50 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 V 50 H 250 Z M 10,50 H 20 V 60 H 10 Z m 20,0 H 40 V 60 H 30 Z m 10,0 H 50 V 60 H 40 Z m 10,0 H 60 V 60 H 50 Z m 20,0 H 80 V 60 H 70 Z m 30,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 V 60 H 250 Z M 10,60 H 20 V 70 H 10 Z m 60,0 H 80 V 70 H 70 Z m 20,0 h 10 V 70 H 90 Z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 60,0 h 10 V 70 H 250 Z M 10,70 H 20 V 80 H 10 Z m 10,0 H 30 V 80 H 20 Z m 10,0 H 40 V 80 H 30 Z m 10,0 H 50 V 80 H 40 Z m 10,0 H 60 V 80 H 50 Z m 10,0 H 70 V 80 H 60 Z m 10,0 H 80 V 80 H 70 Z m 20,0 h 10 V 80 H 90 Z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 V 80 H 250 Z M 100,80 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 V 90 H 170 Z M 10,90 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 10,0 h 10 v 10 H 80 Z m 10,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 240 Z M 10,100 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 40,0 h 10 v 10 H 60 Z m 20,0 h 10 v 10 H 80 Z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 H 240 Z M 20,110 h 10 v 10 H 20 Z m 20,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 10,0 h 10 v 10 H 80 Z m 30,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 20,120 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 20,0 h 10 v 10 H 60 Z m 20,0 h 10 v 10 H 80 Z m 50,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 H 250 Z M 10,130 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 20,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,140 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 40,0 h 10 v 10 H 80 Z m 10,0 h 10 v 10 H 90 Z m 60,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 240 Z M 10,150 h 10 v 10 H 10 Z m 60,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,160 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 20,0 h 10 v 10 H 60 Z m 20,0 h 10 v 10 H 80 Z m 10,0 h 10 v 10 H 90 Z m 30,0 h 10 v 10 h -10 z m 60,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 H 250 Z M 10,170 h 10 v 10 H 10 Z m 30,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 230 Z M 90,180 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 220 Z M 10,190 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,200 h 10 v 10 H 10 Z m 60,0 h 10 v 10 H 70 Z m 30,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,210 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,220 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 60,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,230 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 250 Z M 10,240 h 10 v 10 H 10 Z m 60,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 H 250 Z M 10,250 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 80,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z"
+           style="fill:#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
 </svg>
