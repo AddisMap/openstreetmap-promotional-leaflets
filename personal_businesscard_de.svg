@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="85mm"
+   height="55mm"
+   viewBox="0 0 85 55"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="businesscard.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="43.007277"
+     inkscape:cy="-13.897597"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="1600"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-242)">
+    <image
+       sodipodi:absref="background.png"
+       xlink:href="background.png"
+       y="240.34375"
+       x="-39.040619"
+       id="image841"
+       preserveAspectRatio="none"
+       height="58.439785"
+       width="160.72218" />
+    <image
+       sodipodi:absref="./globe_part_halo.png"
+       xlink:href="./globe_part_halo.png"
+       style="display:inline"
+       y="241.9041"
+       x="40.192951"
+       id="image2726"
+       height="55.007217"
+       width="45.480206" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75316548px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0.30025318px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30025318px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.7510347"
+       y="265.8609"
+       id="text817"><tspan
+         sodipodi:role="line"
+         x="2.7510347"
+         y="265.8609"
+         style="stroke-width:0.30025318px"
+         id="tspan885"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.94494051">Mein Name ist &lt;Name&gt;<tspan
+   style="font-size:3.17499995px"
+   id="tspan962">*</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="2.7510347"
+         y="270.70255"
+         style="stroke-width:0.30025318px"
+         id="tspan819">und ich bin unterwegs</tspan><tspan
+         sodipodi:role="line"
+         x="2.7510347"
+         y="275.39401"
+         style="stroke-width:0.30025318px"
+         id="tspan821">für eine freie Weltkarte.</tspan><tspan
+         sodipodi:role="line"
+         x="2.7510347"
+         y="280.08545"
+         style="stroke-width:0.30025318px"
+         id="tspan912">Mehr Infos oder gleich</tspan><tspan
+         sodipodi:role="line"
+         x="2.7510347"
+         y="284.77692"
+         style="stroke-width:0.30025318px"
+         id="tspan950">Mitmachen auf</tspan><tspan
+         sodipodi:role="line"
+         x="2.7510347"
+         y="289.46838"
+         style="stroke-width:0.30025318px"
+         id="tspan954">openstreetmap.de</tspan></text>
+    <g
+       id="g920"
+       transform="matrix(0.82236434,0,0,0.82236434,16.501948,80.764486)">
+      <g
+         transform="matrix(0.05834007,0,0,0.05834007,66.328697,245.45237)"
+         id="g871">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="0"
+           y="0"
+           width="270"
+           height="270"
+           id="rect855" />
+        <g
+           id="elements-8">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#000000"
+             d="M 10,10 H 20 V 20 H 10 Z m 10,0 H 30 V 20 H 20 Z m 10,0 H 40 V 20 H 30 Z m 10,0 H 50 V 20 H 40 Z m 10,0 H 60 V 20 H 50 Z m 10,0 H 70 V 20 H 60 Z m 10,0 H 80 V 20 H 70 Z m 60,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 V 20 H 250 Z M 10,20 H 20 V 30 H 10 Z m 60,0 H 80 V 30 H 70 Z m 20,0 h 10 V 30 H 90 Z m 20,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 60,0 h 10 V 30 H 250 Z M 10,30 H 20 V 40 H 10 Z m 20,0 H 40 V 40 H 30 Z m 10,0 H 50 V 40 H 40 Z m 10,0 H 60 V 40 H 50 Z m 20,0 H 80 V 40 H 70 Z m 50,0 h 10 v 10 h -10 z m 70,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 V 40 H 250 Z M 10,40 H 20 V 50 H 10 Z m 20,0 H 40 V 50 H 30 Z m 10,0 H 50 V 50 H 40 Z m 10,0 H 60 V 50 H 50 Z m 20,0 H 80 V 50 H 70 Z m 20,0 h 10 V 50 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 V 50 H 250 Z M 10,50 H 20 V 60 H 10 Z m 20,0 H 40 V 60 H 30 Z m 10,0 H 50 V 60 H 40 Z m 10,0 H 60 V 60 H 50 Z m 20,0 H 80 V 60 H 70 Z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 V 60 H 250 Z M 10,60 H 20 V 70 H 10 Z m 60,0 H 80 V 70 H 70 Z m 20,0 h 10 V 70 H 90 Z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 60,0 h 10 V 70 H 250 Z M 10,70 H 20 V 80 H 10 Z m 10,0 H 30 V 80 H 20 Z m 10,0 H 40 V 80 H 30 Z m 10,0 H 50 V 80 H 40 Z m 10,0 H 60 V 80 H 50 Z m 10,0 H 70 V 80 H 60 Z m 10,0 H 80 V 80 H 70 Z m 20,0 h 10 V 80 H 90 Z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 V 80 H 250 Z M 100,80 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 60,0 h 10 V 90 H 170 Z M 10,90 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 10,0 h 10 v 10 H 80 Z m 10,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 240 Z M 30,100 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 H 240 Z M 10,110 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 30,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m -100,10 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 H 250 Z M 20,130 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 20,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,140 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 40,0 h 10 v 10 H 80 Z m 10,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 240 Z M 10,150 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 40,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,160 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 20,0 h 10 v 10 H 50 Z m 40,0 h 10 v 10 H 90 Z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 H 250 Z M 10,170 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 20,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 10,0 h 10 v 10 H 80 Z m 10,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 230 Z M 90,180 h 10 v 10 H 90 Z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 220 Z M 10,190 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,200 h 10 v 10 H 10 Z m 60,0 h 10 v 10 H 70 Z m 60,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,210 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 240 Z M 10,220 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 H 250 Z M 10,230 h 10 v 10 H 10 Z m 20,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 20,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 40,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 H 250 Z M 10,240 h 10 v 10 H 10 Z m 60,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 20,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 H 250 Z M 10,250 h 10 v 10 H 10 Z m 10,0 h 10 v 10 H 20 Z m 10,0 h 10 v 10 H 30 Z m 10,0 h 10 v 10 H 40 Z m 10,0 h 10 v 10 H 50 Z m 10,0 h 10 v 10 H 60 Z m 10,0 h 10 v 10 H 70 Z m 20,0 h 10 v 10 H 90 Z m 10,0 h 10 v 10 h -10 z m 30,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 50,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z m 10,0 h 10 v 10 h -10 z"
+             id="path857" />
+        </g>
+      </g>
+      <text
+         id="text881"
+         y="262.45529"
+         x="66.731636"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.4551971px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0.11641576px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11641576px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.11641576px"
+           y="263.7428"
+           x="66.731636"
+           id="tspan879"
+           sodipodi:role="line" /></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11700296px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0.24936028px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24936028px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1.082899"
+       y="295.8136"
+       id="text889"><tspan
+         sodipodi:role="line"
+         id="tspan887"
+         x="1.082899"
+         y="295.8136"
+         style="stroke-width:0.24936028px"
+         dy="-0.94494051 0.94494051">*Benutzername = &lt;BenutzerName&gt;</tspan></text>
+    <image
+       sodipodi:absref="./osm.png"
+       xlink:href="./osm.png"
+       style="display:inline"
+       y="239.99736"
+       x="-60.399536"
+       id="image2836"
+       height="14.927537"
+       width="14.927537"
+       transform="rotate(-14.448299)"
+       inkscape:transform-center-x="-10.131677"
+       inkscape:transform-center-y="-1.8972217" />
+    <text
+       inkscape:export-ydpi="400.01047"
+       inkscape:export-xdpi="400.01047"
+       inkscape:export-filename="/tmp/1.png"
+       id="text3363"
+       y="254.72726"
+       x="20.473852"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.22784209px;line-height:0%;font-family:FrobisherExtrabold;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18565348"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76461697px;line-height:1;font-family:FrobisherExtrabold;-inkscape-font-specification:FrobisherExtrabold;stroke-width:0.18565348"
+         dx="0 0 0 0 0.51478803 0 0 0 0 0 0.77218217"
+         y="254.72726"
+         x="20.473852"
+         id="tspan3365"
+         sodipodi:role="line">OpenStreetMap</tspan></text>
+  </g>
+</svg>
